@@ -6,12 +6,12 @@
  - *Which product sold the most and why*
  - *What products are most often sold together* 
 ## Dependencies:
-###Libraries:
+### Libraries:
  - __pandas__
  - __matplotlib.pyplot__
  - __numpy__
  - __os__ 
-###Data
+### Data
  __link of the data used in this project0:__ `https://drive.google.com/file/d/1J7PevXnksc9NNAWLpftHhCFuHZRG0bvD/view?usp=sharing`
  You need to configure the search path of the data where you have it stored in the variable:
  - "files"
